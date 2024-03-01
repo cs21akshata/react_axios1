@@ -14,7 +14,7 @@ import './App.css';
   return (
     <div className='container'>
         <div className='mt-3'>
-          <h3>Fetch Data from API in React with</h3>
+          <h3>Fetch Data from API in React </h3>
           <table className='table'>
             <thead>
               <tr>
